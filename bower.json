@@ -1,0 +1,20 @@
+{
+  "name": "angular-directives",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mjzone/angular-directives",
+  "authors": [
+    "Manoj <mj.bitwave@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.1",
+    "bootstrap": "~3.3.5"
+  }
+}
